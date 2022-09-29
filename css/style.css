@@ -1,0 +1,406 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#header {
+    animation: header 2s alternate linear;
+}
+
+@keyframes header {
+    0% {
+        transform: translateY(-1200px);
+    }
+}
+
+.header {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+}
+
+.header-nav a {
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    padding: 0 27px;
+}
+
+.header-logo img {
+    padding-right: 35px;
+}
+
+.header-btn button {
+    font-weight: 400;
+    font-size: 16px;
+    color: #161320;
+    padding: 10px 20px;
+    background: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 0 15px;
+}
+
+#hero {
+    background: #100E14;
+    padding: 30px 0;
+}
+
+.hero h1 {
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 44px;
+}
+
+.hero h3 {
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    padding-bottom: 73px;
+}
+
+.hero-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero-btn button {
+    width: 281px;
+    height: 66px;
+    background: #FF4343;
+    border-radius: 8px;
+
+    font-weight: 400;
+    font-size: 23px;
+    color: #FFFFFF;
+}
+
+.hero-btn span {
+    padding-left: 10px;
+}
+
+.hero-btn p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 19px 0;
+}
+
+.hero-img {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.hero-img-two {
+    position: absolute;
+    right: 100px;
+    animation: img-two 1.5s alternate linear;
+}
+
+@keyframes img-two {
+    0% {
+        transform: translateX(1200px);
+    }
+}
+
+.hero-img-one {
+    animation: img-one 1.5s alternate linear;
+}
+
+@keyframes img-one {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+
+#shoot {
+    background: #121118;
+
+}
+
+.shoot h1 {
+    font-weight: 400;
+    font-size: 58px;
+    color: #FFFFFF;
+    padding: 160px 0;
+    margin-left: -110px;
+    margin-top: -250px;
+
+}
+
+.shoot p {
+    font-weight: 400;
+    font-size: 26px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-left: -110px;
+    margin-top: -120px;
+
+}
+
+.shoot-gen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.chaplers-img {
+    padding: 50px 0;
+    position: relative;
+    display: flex;
+
+}
+
+.img-one {
+    position: absolute;
+    left: 320px;
+    bottom: 20px;
+}
+#them {
+    background: #121118;
+
+}
+.them {
+    padding: 100px 0;
+}
+.img1 {
+    margin-left: 30px;
+}
+.img2 {
+    margin-left: -20px;
+    margin-top: -550px;
+}
+.write {
+    margin-left: 700px;
+    margin-top: -490px;
+}
+.write h1 {
+    font-weight: 400;
+    font-size: 58px;
+    color: #FFFFFF;
+}
+.write p {
+    font-weight: 400;
+    font-size: 27px;
+    color: rgba(255, 255, 255, 0.5);
+}
+#add {
+    background: #121118;
+
+}
+.wrote {
+    padding: 300px 0;
+}
+.wrote h1 {
+    font-weight: 400;
+    font-size: 54px;
+    color: #FFFFFF;
+
+}
+.wrote p {
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 27px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+.fon {
+    margin-left: 600px;
+    margin-top: -600px;
+}
+#said {
+    background: #121118;
+
+}
+.image {
+    background: none;
+    width: 500px;
+    height: 300px;
+    margin-left: -20px;
+    padding: 200px 0;
+}
+.ride {
+    margin-left: 700px;
+    margin-top: -490px;
+}
+.ride h1 {
+    font-weight: 400;
+    font-size: 58px;
+    color: #FFFFFF;
+}
+.ride p {
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.5);
+}
+#best {
+    background: #121118;
+
+}
+.best {
+
+}
+.best h1 {
+    padding: 250px 0;
+    font-weight: 400;
+    font-size: 61px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.best p {
+    margin-top: -200px;
+    font-weight: 400;
+    font-size: 26px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+.picture {
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -80px;
+    width: 251px;
+    height: 452px;
+    left: 0;
+    top: 0;
+
+
+}.get {
+    width: 250px;
+    height: 420px;
+     padding: 0 10px;
+ }
+ .writs {
+     margin-left: -50px;
+     margin-top: -260px;
+ }
+ .writs h3 {
+     font-weight: 400;
+     font-size: 29px;
+     color: #FFFFFF;
+ }
+ .writs p {
+     font-weight: 400;
+     font-size: 16px;
+     color: #FFFFFF;
+ }
+ .writs h6 {
+     font-weight: 400;
+     font-size: 15px;
+     color: rgba(255, 255, 255, 0.65);
+     margin-left: 50px;
+ }
+.writs1 {
+    margin-left: 200px;
+    margin-top: -140px;
+}
+.writs1 h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+}
+.writs1 p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 40px;
+}
+.writs1 h6 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.65);
+    margin-left: 40px;
+}
+.writs2 {
+    margin-left: 480px;
+    margin-top: -120px;
+}
+.writs2 h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+}
+.writs2 p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.writs2 h6 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.65);
+    margin-left: 30px;
+}
+.writs3 {
+    margin-left: 730px;
+    margin-top: -110px;
+}
+.writs3 h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+}
+.writs3 p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.writs3 h6 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.65);
+    margin-left: 10px;
+}
+.writs4 {
+    margin-left: 980px;
+    margin-top: -150px;
+}
+.writs4 h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+}
+.writs4 p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.writs4 h6 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.65);
+    margin-left: 10px;
+}
