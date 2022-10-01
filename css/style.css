@@ -181,47 +181,58 @@ body {
     left: 320px;
     bottom: 20px;
 }
+
 #them {
     background: #121118;
 
 }
+
 .them {
     padding: 100px 0;
 }
+
 .img1 {
     margin-left: 30px;
 }
+
 .img2 {
     margin-left: -20px;
     margin-top: -550px;
 }
+
 .write {
     margin-left: 700px;
     margin-top: -490px;
 }
+
 .write h1 {
     font-weight: 400;
     font-size: 58px;
     color: #FFFFFF;
 }
+
 .write p {
     font-weight: 400;
     font-size: 27px;
     color: rgba(255, 255, 255, 0.5);
 }
+
 #add {
     background: #121118;
 
 }
+
 .wrote {
     padding: 300px 0;
 }
+
 .wrote h1 {
     font-weight: 400;
     font-size: 54px;
     color: #FFFFFF;
 
 }
+
 .wrote p {
     margin-top: 30px;
     font-weight: 400;
@@ -229,14 +240,17 @@ body {
     color: rgba(255, 255, 255, 0.5);
 
 }
+
 .fon {
     margin-left: 600px;
     margin-top: -600px;
 }
+
 #said {
     background: #121118;
 
 }
+
 .image {
     background: none;
     width: 500px;
@@ -244,28 +258,39 @@ body {
     margin-left: -20px;
     padding: 200px 0;
 }
+
 .ride {
     margin-left: 700px;
     margin-top: -490px;
 }
+
 .ride h1 {
     font-weight: 400;
     font-size: 58px;
     color: #FFFFFF;
 }
+
 .ride p {
     margin-top: 30px;
     font-weight: 400;
     font-size: 25px;
     color: rgba(255, 255, 255, 0.5);
 }
+
 #best {
     background: #121118;
 
 }
-.best {
+
 
 }
+
+.best img {
+    margin-top: -300px;
+    margin-left: 500px;
+
+}
+
 .best h1 {
     padding: 250px 0;
     font-weight: 400;
@@ -274,6 +299,7 @@ body {
     color: #FFFFFF;
 
 }
+
 .best p {
     margin-top: -200px;
     font-weight: 400;
@@ -281,6 +307,7 @@ body {
     text-align: center;
     color: rgba(255, 255, 255, 0.5);
 }
+
 .picture {
     padding: 100px 0;
     display: flex;
@@ -292,61 +319,74 @@ body {
     top: 0;
 
 
-}.get {
+}
+
+.get {
     width: 250px;
     height: 420px;
-     padding: 0 10px;
- }
- .writs {
-     margin-left: -50px;
-     margin-top: -260px;
- }
- .writs h3 {
-     font-weight: 400;
-     font-size: 29px;
-     color: #FFFFFF;
- }
- .writs p {
-     font-weight: 400;
-     font-size: 16px;
-     color: #FFFFFF;
- }
- .writs h6 {
-     font-weight: 400;
-     font-size: 15px;
-     color: rgba(255, 255, 255, 0.65);
-     margin-left: 50px;
- }
+    padding: 0 10px;
+}
+
+.writs {
+    margin-left: -50px;
+    margin-top: -260px;
+}
+
+.writs h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+}
+
+.writs p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.writs h6 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.65);
+    margin-left: 50px;
+}
+
 .writs1 {
     margin-left: 200px;
     margin-top: -140px;
 }
+
 .writs1 h3 {
     font-weight: 400;
     font-size: 29px;
     color: #FFFFFF;
 }
+
 .writs1 p {
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
     margin-left: 40px;
 }
+
 .writs1 h6 {
     font-weight: 400;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.65);
     margin-left: 40px;
 }
+
 .writs2 {
     margin-left: 480px;
     margin-top: -120px;
 }
+
 .writs2 h3 {
     font-weight: 400;
     font-size: 29px;
     color: #FFFFFF;
 }
+
 .writs2 p {
     font-weight: 400;
     font-size: 16px;
@@ -354,21 +394,25 @@ body {
     margin-left: 20px;
     margin-top: 5px;
 }
+
 .writs2 h6 {
     font-weight: 400;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.65);
     margin-left: 30px;
 }
+
 .writs3 {
     margin-left: 730px;
     margin-top: -110px;
 }
+
 .writs3 h3 {
     font-weight: 400;
     font-size: 29px;
     color: #FFFFFF;
 }
+
 .writs3 p {
     font-weight: 400;
     font-size: 16px;
@@ -376,21 +420,25 @@ body {
     margin-left: 10px;
     margin-top: 5px;
 }
+
 .writs3 h6 {
     font-weight: 400;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.65);
     margin-left: 10px;
 }
+
 .writs4 {
     margin-left: 980px;
     margin-top: -150px;
 }
+
 .writs4 h3 {
     font-weight: 400;
     font-size: 29px;
     color: #FFFFFF;
 }
+
 .writs4 p {
     font-weight: 400;
     font-size: 16px;
@@ -398,9 +446,387 @@ body {
     margin-left: 10px;
     margin-top: 5px;
 }
+
 .writs4 h6 {
     font-weight: 400;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.65);
     margin-left: 10px;
 }
+
+#offer {
+    background: #121118;
+
+}
+
+.offer p {
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    color: #8BFFB0;
+    padding: 250px;
+
+}
+
+.offer h1 {
+    font-weight: 400;
+    font-size: 58px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -210px;
+
+}
+
+.offer h4 {
+    font-weight: 400;
+    font-size: 27px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 30px;
+}
+
+.img-man {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+#pick {
+    background: #121118;
+
+}
+
+.pick h1 {
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -350px;
+}
+
+.pick p {
+    font-weight: 400;
+    font-size: 27px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 20px;
+}
+
+.pick-btn button {
+    width: 281px;
+    height: 66px;
+    background: #FF4343;
+    border-radius: 8px;
+
+    font-weight: 400;
+    font-size: 23px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.girl-img {
+    margin-left: -150px;
+    margin-top: 70px;
+}
+
+.wbr h5 {
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -290px;
+}
+
+.wbr p {
+    font-weight: 400;
+    font-size: 23px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.wbr {
+    animation: wbr 2s alternate linear;
+}
+
+@keyframes wbr {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+
+#nova {
+    background: #0A0A0A;
+
+}
+
+.nova {
+    color: #FFFFFF;
+    padding: 300px;
+    margin-left: -400px;
+    font-weight: 100;
+    font-size: 38px;
+
+}
+
+.text-img {
+    margin-left: -100px;
+    margin-top: -500px;
+}
+
+.boy {
+    margin-left: -610px;
+    margin-top: 400px;
+}
+
+.text-img p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #77ad8d;
+    margin-left: 280px;
+    margin-top: -420px;
+}
+
+.text-img h3 {
+    font-weight: 400;
+    font-size: 29px;
+    color: #FFFFFF;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+
+.text-img h6 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 290px;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+
+.text-img h5 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+
+.youtube1 {
+    margin-left: -250px;
+    margin-top: -10px;
+}
+
+.youtube {
+    color: #FFFFFF;
+    margin-left: 35px;
+    margin-top: -50px;
+}
+
+.learn {
+    display: flex;
+    margin-left: 600px;
+    margin-top: -410px;
+}
+
+.boy1 {
+    margin-left: -610px;
+    margin-top: -6px;
+}
+
+.how p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #77ad8d;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.how h3 {
+    font-weight: 400;
+    font-size: 28px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 10px;
+
+
+}
+
+.how h6 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 10px;
+
+}
+
+.arrow h5 {
+
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin-left: 100px;
+
+
+}
+
+.gen h4 {
+    font-weight: 400;
+    font-size: 19px;
+    color: #FFFFFF;
+    margin-left: -230px;
+    margin-top: 100px;
+}
+
+.gen1 p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+    margin-left: -230px;
+
+
+}
+
+#camp {
+    background: #0A0A0A;
+
+}
+
+.camp {
+    padding: 250px;
+    margin-left: -300px;
+}
+
+.Product {
+    margin-left: 350px;
+    margin-top: -310px;
+}
+
+.Product h3 {
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.Product p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 0 30px;
+    height: 30px;
+}
+
+.Company {
+    margin-left: 600px;
+    margin-top: -200px;
+}
+
+.Company h3 {
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.Company p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 0 30px;
+    height: 30px;
+}
+
+.Res {
+    margin-left: 820px;
+    margin-top: -173px;
+
+}
+
+.Res h3 {
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.Res p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 0 30px;
+    height: 30px;
+}
+
+.icons {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.youtube-img {
+    margin-top: -300px;
+    padding: 0 10px;
+}
+.instagram {
+    margin-top: -300px;
+    padding: 10px;
+}
+.twitter {
+    margin-top: -300px;
+    padding: 10px;
+}
+.camp {
+    animation: camp 2s alternate linear;
+}
+
+@keyframes camp {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+.Product {
+    animation: Product 2s alternate linear;
+}
+
+@keyframes Product {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+.Company {
+    animation: Company 2s alternate linear;
+}
+
+@keyframes Company {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+.Res {
+    animation: Res 2s alternate linear;
+}
+
+@keyframes Res {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+.icons {
+     animation: icons 2s alternate linear;
+ }
+
+@keyframes icons {
+    0% {
+        transform: translateX(-1200px);
+    }
+}
+
+
